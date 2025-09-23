@@ -12,7 +12,7 @@ We offer _free_ initial in-person or telephone consultations. Please call us on 
 
 ## Contact Form
 
-<form action="https://formspree.io/donna@vitalityfitness.info" method="post">
+<form action="https://formspree.io/f/mkgqnzzq" method="post">
   <!-- <input type="hidden" name="_next" value="http://www.cardiffsportsmassage.co.uk/contact-received"> -->
   <div class="form-group">
     <label for="name">Name</label>
